@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "errno.h": "c",
+        "ext2_fs.h": "c"
+    }
+}
